@@ -8,10 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "cdasd"
+    "url": "https://github.com/LeeXun/node-lda-chinese.git"
   },
   "keywords": [
-    "lda"
+    "lda",
+    "machine learning",
+    "chinese"
   ],
   "author": "leexun",
   "license": "ISC",
