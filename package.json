@@ -1,0 +1,21 @@
+{
+  "name": "node-lda-chinese",
+  "version": "0.0.0",
+  "description": "a lda model for Chinese",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cdasd"
+  },
+  "keywords": [
+    "lda"
+  ],
+  "author": "leexun",
+  "license": "ISC",
+  "dependencies": {
+    "nodejieba": "^2.2.4"
+  }
+}
